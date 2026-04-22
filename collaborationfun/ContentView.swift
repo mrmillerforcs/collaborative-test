@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack {
             Image(systemName: "mail")
                 .imageScale(.large)
-                .foregroundStyle(.tint)
+                .foregroundStyle(.purple)
             Text("hello world!!")
             Text("hiiii")
             Image(systemName: "bolt")
